@@ -5,13 +5,15 @@
 }
 
 h1{
-    font-size: 2rem;
+    font-size: 4rem;
 
 }
 section#header-logo img{
-    margin-top: 1rem;
-    margin-left: 1rem;
+    margin-top: 2rem;
+    margin-left: 2rem;
     vertical-align: bottom;
+    height: 5.5rem;
+    width: 5.5rem;
 
 }
 section#header-logo h1{
@@ -21,4 +23,35 @@ section#header-logo h1{
 .conteiner{
   padding-top: 5rem;
   padding-left: 10rem;
+}
+
+
+.button-task{
+    border-radius: 10% 10% 10% 10%;
+    border-color:  rgb(9, 216, 252);
+    color: aliceblue;
+    background-color: rgb(9, 216, 252);
+    font-size: 1rem;
+    
+
+}
+.button-section{
+    border-radius: 10% 10% 10% 10%;
+    border-color: gray;
+    color: gray;
+    background-color: white;
+    font-size: 1rem;
+    
+}
+
+.table{
+    font-size: 1.5rem;
+    padding-top: 1.5rem;
+}
+span.editorial{
+    color: aliceblue;
+    font-style: italic;
+    border-radius: 10% 10% 10% 10%;
+    background-color: rgb(41, 206, 247)
+
 }
