@@ -47,11 +47,51 @@ section#header-logo h1{
 .table{
     font-size: 1.5rem;
     padding-top: 1.5rem;
+    list-style-type: none;
 }
-span.editorial{
+.editorial{
+    padding: 0.1rem;
     color: aliceblue;
     font-style: italic;
-    border-radius: 10% 10% 10% 10%;
+    border-radius: 20% 20% 20% 20%;
     background-color: rgb(41, 206, 247)
+}
+.list-type{
+    list-style-type: none;
 
+}
+.goals{
+    padding: 0.1rem;
+    color: white;
+    font-style: italic;
+    border-radius: 20% 20% 20% 20%;
+    background-color: rgb(110, 12, 115)
+}
+.recruiting{
+    padding: 0.1rem;
+    color: white;
+    font-style: italic;
+    border-radius: 20% 20% 20% 20%;
+    background-color: rgb(0, 106, 87)
+}
+.mobile{
+    padding: 0.1rem;
+    color: white;
+    font-style: italic;
+    border-radius: 20% 20% 20% 20%;
+    background-color:gold;
+}
+.website{
+    padding: 0.1rem;
+    color:white;
+    font-style: italic;
+    border-radius: 20% 20% 20% 20%;
+    background-color: violet;
+}
+.sales{
+    padding: 0.1rem;
+    color: white;
+    font-style: italic;
+    border-radius: 20% 20% 20% 20%;
+    background-color: rgb(119, 100, 5)
 }
