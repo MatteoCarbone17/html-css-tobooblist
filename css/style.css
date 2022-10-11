@@ -8,12 +8,17 @@ h1{
     font-size: 2rem;
 
 }
-section#main-logo img{
+section#header-logo img{
     margin-top: 1rem;
     margin-left: 1rem;
     vertical-align: bottom;
 
 }
-section#main-logo h1{
+section#header-logo h1{
     display: inline-block;
+}
+
+.conteiner{
+  padding-top: 5rem;
+  padding-left: 10rem;
 }
