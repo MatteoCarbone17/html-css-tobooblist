@@ -3,23 +3,50 @@
     margin: 0%;
     box-sizing: border-box;
 }
-    
+header img{
+    height:3.7rem;
+}
+
 header h1{
     font-size: 3rem;
+    padding-left: 0.4rem;
     display: inline-block;
     vertical-align: text-bottom;
 }
 #header-logo{
     display: inline-block;
     padding-top: 1rem;
-    padding-left: 2rem;
+    padding-left: 1.5rem;
 
 }
 .header-conteiner{
-    background-color: aqua;
+    background-color: white;
     padding-bottom: 1.5rem;
 }
-
-.main-conteiner{
+body{
+    background-color: lightgrey;
     
+}
+
+.main-conteiner{ 
+    background-color:white;
+    margin-top: 3rem;
+    margin-left: 7rem;
+    margin-right: 25rem;
+    padding-left: 4rem;
+}
+
+.button-conteiner{
+    margin-bottom: 1.5rem;
+    margin-left: 1rem;
+    padding-bottom: 1.5rem;
+    
+}
+
+.button{
+    font-style: italic;
+    border: none;
+    border-radius: 1.5rem;
+    padding: 0.3rem;
+
 }
