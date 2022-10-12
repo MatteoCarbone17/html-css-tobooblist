@@ -76,6 +76,39 @@ ul{
     padding-bottom: 1rem;
 
 }
-.button-edit{
+
+li{
+    padding-bottom: 0.5rem;
+}
+.tag{
+    color: white;
+    font-size: .8rem;
+    border-radius: 1rem;
+    padding: 0.4rem;
+
+}
+
+.tag-violet{
+    background-color: violet;
+}
+
+.tag-green{
+    background-color: rgb(0, 93, 51);
+
+}
+.tag-blue{
+    background-color: lightskyblue;
+    
+}
+.tag-yellow{
+    background-color: goldenrod;
+    
+}
+.tag-senape{
+    background-color: rgb(110, 79, 0);
+    
+}
+.tag-pink{ 
+    background-color: lightpink;
     
 }
