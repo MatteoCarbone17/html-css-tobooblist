@@ -112,3 +112,14 @@ li{
     background-color: lightpink;
     
 }
+
+.span-check{
+    color: green;
+    border-radius: 1.5rem;
+    background-color: white;
+    border-color: green;
+}
+.span-cross{
+    color: red;
+    
+}
